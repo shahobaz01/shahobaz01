@@ -9,7 +9,7 @@ an entry-level software engineer.
 - 👯 I’m looking to collaborate on Internship Oppurtunities <br>
 - 💬 Ask me about Tech Stack <br>
 - 📫 How to reach me : ahmedshahobaz@gmail.com <br>
-- 😄 Pronouns : < Shah-0-Baz /> <br>
+- 😄 Pronouns : <he/him />  <br> < Shah-0-Baz /> <br>
 - ⚡ Fun fact : Kind Words Cost Nothing :) 
 
 
