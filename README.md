@@ -1,10 +1,9 @@
 # 💫 Hi there 👋, I'm Shahobaz
 ###  A Software Developer
-Strong in design and integration with intuitive
-Problem-Solving Skills. Proficient in HTML, CSS,
-JAVASCRIPT. Passionate about implementing and
-launching new projects. Looking to start a career as
-an entry-level software engineer. 
+I’m an enthusiastic and motivated B.Tech graduate in Computer Science and Engineering, eager to start my career
+with an entry-level IT positions.A continuous learner with a passion for problem-solving, I excel in design and
+integration.I am committed to applying and enhancing the skills gained during my studies while accepting
+opportunities for growth and learning in a professional setting. 
 - 🌱 I’m currently learning Competitive Programming <br>
 - 👯 I’m looking to collaborate on Internship Oppurtunities <br>
 - 💬 Ask me about Tech Stack <br>
